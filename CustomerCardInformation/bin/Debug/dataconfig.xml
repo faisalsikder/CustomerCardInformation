@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <userslist>
+    <user>
+      <username>user</username>
+      <pcode>1822216911123632895310217111710544153738910451173201</pcode>
+      <empname>XXXXX</empname>
+      <accesstype>User</accesstype>
+      <empdesignation>Assistant</empdesignation>
+      <status>Active</status>
+    </user>
+    <user>
+      <username>root</username>
+      <pcode>220118233240192011014314515812819210221918657130247133</pcode>
+      <empname>Faisal Sikder</empname>
+      <accesstype>Administrator</accesstype>
+      <empdesignation>Programmer</empdesignation>
+      <status>Active</status>
+    </user>
+  </userslist>
+  <login>
+    <hostaddress>192.168.20.20</hostaddress>
+    <hostusername>root</hostusername>
+    <hostpassword>root</hostpassword>
+  </login>
+</root>

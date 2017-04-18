@@ -1,0 +1,11 @@
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\bin\Debug\CustomerCardInformation.exe.config
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\bin\Debug\CustomerCardInformation.exe
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\bin\Debug\CustomerCardInformation.pdb
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.AboutBox.resources
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.BaseUserManagement.resources
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.CustomerCard.resources
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.Login.resources
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.Properties.Resources.resources
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.csproj.GenerateResource.Cache
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.exe
+G:\Development\C#\Jean-Project\CustomerCardInformation\CustomerCardInformation\obj\Debug\CustomerCardInformation.pdb
